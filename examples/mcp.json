@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "memory-governance": {
+      "command": "python",
+      "args": ["C:/path/to/mcp_server.py"]
+    }
+  }
+}
